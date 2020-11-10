@@ -1,1 +1,1 @@
-this file will ba licencing information
+this file will be used for licencing information
